@@ -1,0 +1,7 @@
+.MuiInputLabel-standard.MuiInputLabel-shrink {
+    font-weight: 500;
+}
+
+.MuiFormControlLabel-root .MuiFormControlLabel-label {
+    font-size: 12px;
+}
